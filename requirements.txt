@@ -1,0 +1,10 @@
+flask
+pandas
+matplotlib
+requests
+transformers
+torch
+scikit-learn
+flask-cors
+numpy
+tqdm
